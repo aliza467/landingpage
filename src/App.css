@@ -1,0 +1,219 @@
+.logo{
+  width: 190px;
+  height: 50px;
+  padding-left: 30px;
+}
+
+.home{
+  color: red;
+}
+
+#hero{
+  background-image: url("./assets/1.ddb463a076b58bbe0ea3.jpg");
+  height: 90vh;
+  width: 100%;
+  background-size:cover;
+  background-position: top 45% right 0;
+  padding: 0 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  color: white;
+}
+
+.courses{
+  margin-left: 45%;
+}
+
+#hero p{
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: 500;
+}
+
+#hero h4{
+  color: #ffffff;
+  background-color: red;
+  padding: 8px;
+}
+#hero button:hover{
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#hero button{
+  background-color: rgb(39, 37, 37);
+  padding: 16px;
+  border-radius: 10px;
+  border: 1px solid rgb(255, 255, 255);
+  font-weight: 700;
+  font-size: 15px;
+  width: 160px;
+}
+
+#academics{
+  text-align: center;
+  padding-top: 20vh;
+}
+
+#feature{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#feature .fe-box{
+  /* width: 180px; */
+  /* text-align: center; */
+  /* padding: 25px 15px ; */
+  box-shadow: 20px 20px 34px rgba(0, 0,0,0.03) ;
+  border: 2px solid #060606;
+  border-radius: 4px;
+  /* margin: 15px 0 ; */
+  
+}
+
+.pic1{
+  background-image: url("./assets/1.png");
+  background-size: cover;
+  
+  
+}
+
+.pic2{
+  background-image: url("./assets/2.png");
+  background-size: cover;
+  
+  
+}
+
+.pic3{
+  background-image: url("./assets/3.png");
+  background-size: cover;
+  
+  
+}
+
+.pic4{
+  background-image: url("./assets/4.png");
+  background-size: cover;
+  
+  
+}
+
+.pic{
+  width: 40vh;
+  height: 40vh;
+  padding-top: 190px;
+  padding-left: 10px;
+  color: white;
+  
+}
+
+.last{
+  padding-right: 50px;
+}
+
+.ilast{
+  padding-right: 60px;
+
+}
+
+.img{
+  width: 20px;
+  height: 20px;
+}
+
+
+
+#feature .fe-box img{
+  width: 35vh;
+  margin-bottom: 15px ;
+}
+
+#sm-banner{
+  
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+}
+
+.first1{
+  color: blue;
+  font-weight: 500;
+}
+
+.first{
+  color: red;
+}
+
+.free{
+  text-decoration: underline;
+  color: red;
+}
+
+
+#sm-banner .ban1{
+  background-image: url("./assets/double.png");
+  background-size: cover;
+  width: 40%;
+  height: 100vh;
+  margin-left: 100px;
+  
+}
+
+#sm-banner .ban2{
+  width: 50%;
+}
+
+
+
+  
+
+
+
+/* .section4{
+  display: flex;
+} */
+
+.section4 .campus{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.section4 h1{
+  text-align: center;
+}
+
+.section4 .sec1{
+  /* width: 90%; */
+  
+}
+
+.section4 .sec2{
+  width: 40%;
+}
+
+.text{
+  background-color: #f4fcf5;
+  width: 55%;
+  padding: 70px;
+
+}
+
+.section4 button{
+  margin-left: 40%;
+  text-align: center;
+}
+
+.say{
+  display: flex;
+  
+
+}
+
+
